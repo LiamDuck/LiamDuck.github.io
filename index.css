@@ -1,0 +1,69 @@
+@import url("https://fonts.googleapis.com/css?family=Arvo");
+body {
+    background-color: rgb(37, 37, 37);
+    font-family: 'Arvo';
+}
+.content {
+    margin-top: 3%;
+    color: white;
+    text-align: center;
+}
+h1 {
+    color: white;
+    max-width: 50%;
+    margin: auto;
+}
+h2{
+    color: white;
+    text-align: center;
+}
+p {
+    color: white;
+    padding-left: 4%;
+    padding-right: 4%;
+}
+a {
+    color: white;
+    font-size: 150%;
+    margin: 1%;
+}
+.python{
+    flex: 1;
+    margin: auto;
+    margin-top: 0%;
+    float: left;
+    width: 30%;
+}
+.go {
+    flex: 1;
+    margin: auto;
+    margin-top: 0%;
+    float: left;
+    width: 30%;
+
+}
+.java{
+    flex: 1;
+    margin: auto;
+    margin-top: 0%;
+    float: left;
+    width: 30%;
+
+}
+.title{
+    height: 10%;
+}
+.aboutMe{
+    float: left;
+    width: 40%;
+
+}
+.coding{
+    float: left;
+    width: 59%;
+    border-left: 2px solid white;
+}
+.language{
+    float: left;
+    display: flex;
+}
